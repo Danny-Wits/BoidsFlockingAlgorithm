@@ -7,3 +7,8 @@ body {
 canvas {
   display: block;
 }
+div {
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+}
